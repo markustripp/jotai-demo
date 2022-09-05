@@ -1,12 +1,12 @@
 import Nav from '../components/Nav'
 
-const Home = () => {
+const Cart = () => {
   return (
     <>
       <Nav />
-      <h1>Example Online Shop</h1>
+      <h1>Shopping Cart</h1>
     </>
   )
 }
 
-export default Home
+export default Cart
